@@ -1,0 +1,14 @@
+C:\Users\yuajs\Desktop\Aula 1\HelloWorld.app\bin\Debug\net10.0\HelloWorld.app.exe
+C:\Users\yuajs\Desktop\Aula 1\HelloWorld.app\bin\Debug\net10.0\HelloWorld.app.deps.json
+C:\Users\yuajs\Desktop\Aula 1\HelloWorld.app\bin\Debug\net10.0\HelloWorld.app.runtimeconfig.json
+C:\Users\yuajs\Desktop\Aula 1\HelloWorld.app\bin\Debug\net10.0\HelloWorld.app.dll
+C:\Users\yuajs\Desktop\Aula 1\HelloWorld.app\bin\Debug\net10.0\HelloWorld.app.pdb
+C:\Users\yuajs\Desktop\Aula 1\HelloWorld.app\obj\Debug\net10.0\HelloWorld.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuajs\Desktop\Aula 1\HelloWorld.app\obj\Debug\net10.0\HelloWorld.app.AssemblyInfoInputs.cache
+C:\Users\yuajs\Desktop\Aula 1\HelloWorld.app\obj\Debug\net10.0\HelloWorld.app.AssemblyInfo.cs
+C:\Users\yuajs\Desktop\Aula 1\HelloWorld.app\obj\Debug\net10.0\HelloWorld.app.csproj.CoreCompileInputs.cache
+C:\Users\yuajs\Desktop\Aula 1\HelloWorld.app\obj\Debug\net10.0\HelloWorld.app.dll
+C:\Users\yuajs\Desktop\Aula 1\HelloWorld.app\obj\Debug\net10.0\refint\HelloWorld.app.dll
+C:\Users\yuajs\Desktop\Aula 1\HelloWorld.app\obj\Debug\net10.0\HelloWorld.app.pdb
+C:\Users\yuajs\Desktop\Aula 1\HelloWorld.app\obj\Debug\net10.0\HelloWorld.app.genruntimeconfig.cache
+C:\Users\yuajs\Desktop\Aula 1\HelloWorld.app\obj\Debug\net10.0\ref\HelloWorld.app.dll
