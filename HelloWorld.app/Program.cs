@@ -7,5 +7,5 @@ Console.WriteLine("________________________");
 Console.WriteLine("Esperando interação do Usuário");
 
 Console.ReadLine();
-Console.WriteLine("________________________");
+Console.WriteLine("_______________________");
 Console.WriteLine("Olá, mundo!");
